@@ -61,7 +61,7 @@ function Login() {
             "url(https://images.unsplash.com/photo-1519681393784-d120267933ba)",
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-br from-black/80 via-black/60 to-black/40"></div>
+        <div className="absolute inset-0 bg-linear-to-br from-black/80 via-black/60 to-black/40"></div>
 
         <div className="relative z-10 text-2xl font-semibold">
           Job<span className="text-indigo-400">Trackr</span>
